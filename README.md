@@ -8,9 +8,6 @@ Check out the [documentation](http://heroku.github.io/nibs) to learn more about 
 
 Updated: 2/23/2018
 
-    The above Heroku button may not work, but there is a working button inside the ppt slides that are part of this
-    repo.
-    
     The repo differs from earlier Nibs versions by removing the interaction table from the sync tables and handling
     interactions as an external object.
     
