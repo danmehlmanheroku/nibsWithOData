@@ -1,6 +1,5 @@
 {
     "name": "Nibs",
     "description": "Customer loyalty application",
-    "addons": ["heroku-postgresql:hobby-dev"],
-    "stack": "heroku-16"
+    "addons": ["heroku-postgresql:hobby-dev"]
 }
