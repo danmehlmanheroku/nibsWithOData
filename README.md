@@ -6,6 +6,10 @@ Check out the [documentation](http://heroku.github.io/nibs) to learn more about 
 
 ## Changes
 
+Updated: 10/2/2018
+    
+    Updated the node version to be compatible with the Heroku-18 stack
+
 Updated: 2/23/2018
 
     The repo differs from earlier Nibs versions by removing the interaction table from the sync tables and handling
