@@ -1,6 +1,6 @@
 {
     "name": "Nibs",
     "description": "Customer loyalty application",
-    "addons": ["heroku-postgresql:mini"],
-    "stack": "heroku-20"
+    "stack": "heroku-20",
+    "addons": ["heroku-postgresql:mini"]
 }
