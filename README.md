@@ -1,5 +1,7 @@
 ## Nibs with External Interactions
 
+Installation instructions are available here: https://docs.google.com/presentation/d/1TZUa_LoMShAbxHRGrtqPy_XnDrFu-Yn0/edit?usp=sharing&ouid=108875755754817205537&rtpof=true&sd=true
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/danmehlmanheroku/nibsWithOData.git)
 
 Check out the [documentation](http://heroku.github.io/nibs) to learn more about Nibs and to set up your own instance.
