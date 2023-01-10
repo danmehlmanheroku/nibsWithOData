@@ -12,7 +12,7 @@ Updated: 1/10/2023
 
     - Updated to be compatible with the Heroku-20 stack
     - Moved the .pptx documentation from the repo to Google Docs (link available above)
-    - Modified app.json to include Heroku Connect (it will still need to be provisioned!)
+    - Modified app.json to include Heroku Connect (it will still need to be provisioned!) and Papertrail
 
 Updated: 10/2/2018
     
