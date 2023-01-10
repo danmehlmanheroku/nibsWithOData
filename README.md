@@ -8,6 +8,12 @@ Check out the [documentation](http://heroku.github.io/nibs) to learn more about 
 
 ## Changes
 
+Updated: 1/10/2023
+
+    - Updated to be compatible with the Heroku-20 stack
+    - Moved the .pptx documentation from the repo to Google Docs (link available above)
+    - Modified app.json to include Heroku Connect (it will still need to be provisioned!)
+
 Updated: 10/2/2018
     
     Updated the node version to be compatible with the Heroku-18 stack
