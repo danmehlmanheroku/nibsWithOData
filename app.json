@@ -2,5 +2,6 @@
     "name": "Nibs",
     "description": "Customer loyalty application",
     "stack": "heroku-20",
-    "addons": ["heroku-postgresql:mini", "herokuconnect:demo", "papertrail:choklad"]
+    "addons": ["heroku-postgresql:mini", "herokuconnect:demo", "papertrail:choklad"],
+    "formation": { "web": { "quantity": 1, "size": "basic" } }
 }
