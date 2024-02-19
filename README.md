@@ -8,6 +8,10 @@ Check out the [documentation](http://heroku.github.io/nibs) to learn more about 
 
 ## Changes
 
+Updated: 2/19/2024
+
+    - changed to default to 1 basic dyno
+    
 Updated: 1/10/2023
 
     - Updated to be compatible with the Heroku-20 stack
